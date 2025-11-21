@@ -17,8 +17,8 @@ To write a Java program to Count how many times a number appears in an array rec
 ```java
 /*
 Program Count how many times a number appears in an array recursively.
-Developed by: R Anirudh
-Register Number: 212223230016
+Developed by: ROHITH HARIHARAN M
+Register Number: 212223220087
 */
 
 import java.util.Scanner;
